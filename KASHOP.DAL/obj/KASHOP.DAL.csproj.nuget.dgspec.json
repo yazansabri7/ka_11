@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Documents\\API\\Project\\KASHOP\\KASHOP.DAL\\KASHOP.DAL.csproj": {}
+    "C:\\Users\\hp\\Desktop\\Back End\\API\\Project\\KASHOP\\KASHOP.DAL\\KASHOP.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Documents\\API\\Project\\KASHOP\\KASHOP.DAL\\KASHOP.DAL.csproj": {
+    "C:\\Users\\hp\\Desktop\\Back End\\API\\Project\\KASHOP\\KASHOP.DAL\\KASHOP.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Documents\\API\\Project\\KASHOP\\KASHOP.DAL\\KASHOP.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Back End\\API\\Project\\KASHOP\\KASHOP.DAL\\KASHOP.DAL.csproj",
         "projectName": "KASHOP.DAL",
-        "projectPath": "C:\\Users\\hp\\Documents\\API\\Project\\KASHOP\\KASHOP.DAL\\KASHOP.DAL.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\Back End\\API\\Project\\KASHOP\\KASHOP.DAL\\KASHOP.DAL.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Documents\\API\\Project\\KASHOP\\KASHOP.DAL\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\Back End\\API\\Project\\KASHOP\\KASHOP.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.9, )"
